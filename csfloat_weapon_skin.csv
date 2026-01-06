@@ -1,0 +1,1347 @@
+weapon,def_index,paint_index
+0,★ Bayonet Gamma Doppler,500,570
+1,★ Bayonet Ultraviolet,500,98
+2,★ Bayonet Gamma Doppler,500,569
+3,★ Bayonet Doppler,500,419
+4,★ Bayonet Lore,500,558
+5,★ Bayonet Gamma Doppler,500,571
+6,★ Bayonet Case Hardened,500,44
+7,★ Bayonet Gamma Doppler,500,568
+8,★ Bayonet Autotronic,500,573
+9,★ Bayonet Gamma Doppler,500,572
+10,★ Bayonet Black Laminate,500,563
+11,★ Bayonet Slaughter,500,59
+12,★ Bayonet Doppler,500,418
+13,★ Bayonet Freehand,500,580
+14,★ Bayonet Doppler,500,420
+15,★ Bayonet Stained,500,43
+16,★ Bayonet Doppler,500,421
+17,★ Bayonet Crimson Web,500,12
+18,★ Bayonet Bright Water,500,578
+19,★ Bayonet Marble Fade,500,413
+20,★ Bayonet Night,500,40
+21,★ Bayonet Scorched,500,175
+22,★ Bayonet Rust Coat,500,414
+23,★ Bayonet Doppler,500,417
+24,★ Bayonet Blue Steel,500,42
+25,★ Bayonet Urban Masked,500,143
+26,★ Bayonet Tiger Tooth,500,409
+27,★ Bayonet Forest DDPAT,500,5
+28,★ Bayonet Boreal Forest,500,77
+29,★ Bayonet Safari Mesh,500,72
+30,★ Bayonet Damascus Steel,500,410
+31,★ Bayonet -,500,0
+32,★ Bayonet Doppler,500,416
+33,★ Bayonet Doppler,500,415
+34,★ Bayonet Fade,500,38
+35,★ Classic Knife Crimson Web,503,12
+36,★ Classic Knife Scorched,503,175
+37,★ Classic Knife Urban Masked,503,143
+38,★ Classic Knife Blue Steel,503,42
+39,★ Classic Knife Night Stripe,503,735
+40,★ Classic Knife Boreal Forest,503,77
+41,★ Classic Knife Case Hardened,503,44
+42,★ Classic Knife Slaughter,503,59
+43,★ Classic Knife Forest DDPAT,503,5
+44,★ Classic Knife Stained,503,43
+45,★ Classic Knife Safari Mesh,503,72
+46,★ Classic Knife Fade,503,38
+47,★ Classic Knife -,503,0
+48,★ Flip Knife Gamma Doppler,505,571
+49,★ Flip Knife Ultraviolet,505,98
+50,★ Flip Knife Doppler,505,417
+51,★ Flip Knife Doppler,505,415
+52,★ Flip Knife Doppler,505,419
+53,★ Flip Knife Doppler,505,421
+54,★ Flip Knife Gamma Doppler,505,568
+55,★ Flip Knife Gamma Doppler,505,572
+56,★ Flip Knife Gamma Doppler,505,569
+57,★ Flip Knife Doppler,505,418
+58,★ Flip Knife Stained,505,43
+59,★ Flip Knife Night,505,40
+60,★ Flip Knife Doppler,505,420
+61,★ Flip Knife Case Hardened,505,44
+62,★ Flip Knife Bright Water,505,578
+63,★ Flip Knife -,505,0
+64,★ Flip Knife Boreal Forest,505,77
+65,★ Flip Knife Gamma Doppler,505,570
+66,★ Flip Knife Autotronic,505,574
+67,★ Flip Knife Blue Steel,505,42
+68,★ Flip Knife Urban Masked,505,143
+69,★ Flip Knife Marble Fade,505,413
+70,★ Flip Knife Safari Mesh,505,72
+71,★ Flip Knife Fade,505,38
+72,★ Flip Knife Slaughter,505,59
+73,★ Flip Knife Doppler,505,416
+74,★ Flip Knife Damascus Steel,505,410
+75,★ Flip Knife Forest DDPAT,505,5
+76,★ Flip Knife Lore,505,559
+77,★ Flip Knife Rust Coat,505,414
+78,★ Flip Knife Black Laminate,505,564
+79,★ Flip Knife Freehand,505,580
+80,★ Flip Knife Crimson Web,505,12
+81,★ Flip Knife Scorched,505,175
+82,★ Flip Knife Tiger Tooth,505,409
+83,★ Gut Knife Gamma Doppler,506,568
+84,★ Gut Knife Scorched,506,175
+85,★ Gut Knife Doppler,506,417
+86,★ Gut Knife Slaughter,506,59
+87,★ Gut Knife Case Hardened,506,44
+88,★ Gut Knife Doppler,506,419
+89,★ Gut Knife Doppler,506,421
+90,★ Gut Knife Fade,506,38
+91,★ Gut Knife Doppler,506,415
+92,★ Gut Knife Lore,506,560
+93,★ Gut Knife Bright Water,506,578
+94,★ Gut Knife Doppler,506,420
+95,★ Gut Knife Gamma Doppler,506,569
+96,★ Gut Knife Freehand,506,580
+97,★ Gut Knife Gamma Doppler,506,571
+98,★ Gut Knife Doppler,506,418
+99,★ Gut Knife Tiger Tooth,506,409
+100,★ Gut Knife Gamma Doppler,506,570
+101,★ Gut Knife Night,506,40
+102,★ Gut Knife Damascus Steel,506,410
+103,★ Gut Knife Doppler,506,416
+104,★ Gut Knife Gamma Doppler,506,572
+105,★ Gut Knife Ultraviolet,506,98
+106,★ Gut Knife Crimson Web,506,12
+107,★ Gut Knife Urban Masked,506,143
+108,★ Gut Knife Blue Steel,506,42
+109,★ Gut Knife Marble Fade,506,413
+110,★ Gut Knife Autotronic,506,575
+111,★ Gut Knife Safari Mesh,506,72
+112,★ Gut Knife Stained,506,43
+113,★ Gut Knife Boreal Forest,506,77
+114,★ Gut Knife Forest DDPAT,506,5
+115,★ Gut Knife Black Laminate,506,565
+116,★ Gut Knife Rust Coat,506,414
+117,★ Gut Knife -,506,0
+118,★ Karambit Gamma Doppler,507,569
+119,★ Karambit Fade,507,38
+120,★ Karambit Doppler,507,419
+121,★ Karambit Doppler,507,418
+122,★ Karambit Gamma Doppler,507,568
+123,★ Karambit Urban Masked,507,143
+124,★ Karambit Doppler,507,415
+125,★ Karambit Gamma Doppler,507,570
+126,★ Karambit Gamma Doppler,507,571
+127,★ Karambit Gamma Doppler,507,572
+128,★ Karambit Doppler,507,416
+129,★ Karambit Doppler,507,420
+130,★ Karambit Doppler,507,421
+131,★ Karambit Case Hardened,507,44
+132,★ Karambit Slaughter,507,59
+133,★ Karambit Blue Steel,507,42
+134,★ Karambit Lore,507,561
+135,★ Karambit Boreal Forest,507,77
+136,★ Karambit Marble Fade,507,413
+137,★ Karambit Black Laminate,507,566
+138,★ Karambit Scorched,507,175
+139,★ Karambit Ultraviolet,507,98
+140,★ Karambit Autotronic,507,576
+141,★ Karambit Safari Mesh,507,72
+142,★ Karambit Crimson Web,507,12
+143,★ Karambit Rust Coat,507,414
+144,★ Karambit Freehand,507,582
+145,★ Karambit -,507,0
+146,★ Karambit Stained,507,43
+147,★ Karambit Tiger Tooth,507,409
+148,★ Karambit Forest DDPAT,507,5
+149,★ Karambit Night,507,40
+150,★ Karambit Bright Water,507,578
+151,★ Karambit Damascus Steel,507,410
+152,★ Karambit Doppler,507,417
+153,★ M9 Bayonet Doppler,508,417
+154,★ M9 Bayonet Gamma Doppler,508,568
+155,★ M9 Bayonet Doppler,508,416
+156,★ M9 Bayonet Gamma Doppler,508,570
+157,★ M9 Bayonet Doppler,508,415
+158,★ M9 Bayonet Gamma Doppler,508,569
+159,★ M9 Bayonet Doppler,508,418
+160,★ M9 Bayonet Doppler,508,421
+161,★ M9 Bayonet Doppler,508,419
+162,★ M9 Bayonet Doppler,508,420
+163,★ M9 Bayonet Gamma Doppler,508,571
+164,★ M9 Bayonet Crimson Web,508,12
+165,★ M9 Bayonet Fade,508,38
+166,★ M9 Bayonet Case Hardened,508,44
+167,★ M9 Bayonet Slaughter,508,59
+168,★ M9 Bayonet Freehand,508,581
+169,★ M9 Bayonet Tiger Tooth,508,409
+170,★ M9 Bayonet Blue Steel,508,42
+171,★ M9 Bayonet Ultraviolet,508,98
+172,★ M9 Bayonet Safari Mesh,508,72
+173,★ M9 Bayonet Marble Fade,508,413
+174,★ M9 Bayonet Damascus Steel,508,411
+175,★ M9 Bayonet Bright Water,508,579
+176,★ M9 Bayonet Boreal Forest,508,77
+177,★ M9 Bayonet Night,508,40
+178,★ M9 Bayonet Stained,508,43
+179,★ M9 Bayonet Gamma Doppler,508,572
+180,★ M9 Bayonet Black Laminate,508,567
+181,★ M9 Bayonet Forest DDPAT,508,5
+182,★ M9 Bayonet Urban Masked,508,143
+183,★ M9 Bayonet -,508,0
+184,★ M9 Bayonet Lore,508,562
+185,★ M9 Bayonet Scorched,508,175
+186,★ M9 Bayonet Rust Coat,508,414
+187,★ M9 Bayonet Autotronic,508,577
+188,★ Huntsman Knife Tiger Tooth,509,409
+189,★ Huntsman Knife Doppler,509,419
+190,★ Huntsman Knife Doppler,509,416
+191,★ Huntsman Knife Gamma Doppler,509,570
+192,★ Huntsman Knife Damascus Steel,509,411
+193,★ Huntsman Knife Gamma Doppler,509,568
+194,★ Huntsman Knife Black Laminate,509,1112
+195,★ Huntsman Knife Doppler,509,415
+196,★ Huntsman Knife Case Hardened,509,44
+197,★ Huntsman Knife Blue Steel,509,42
+198,★ Huntsman Knife Doppler,509,418
+199,★ Huntsman Knife Fade,509,38
+200,★ Huntsman Knife Safari Mesh,509,72
+201,★ Huntsman Knife Doppler,509,421
+202,★ Huntsman Knife Marble Fade,509,413
+203,★ Huntsman Knife Doppler,509,420
+204,★ Huntsman Knife Forest DDPAT,509,5
+205,★ Huntsman Knife Autotronic,509,1117
+206,★ Huntsman Knife Gamma Doppler,509,569
+207,★ Huntsman Knife Crimson Web,509,12
+208,★ Huntsman Knife Gamma Doppler,509,572
+209,★ Huntsman Knife Lore,509,1107
+210,★ Huntsman Knife Bright Water,509,579
+211,★ Huntsman Knife Stained,509,43
+212,★ Huntsman Knife Freehand,509,581
+213,★ Huntsman Knife Slaughter,509,59
+214,★ Huntsman Knife Gamma Doppler,509,571
+215,★ Huntsman Knife Rust Coat,509,414
+216,★ Huntsman Knife Night,509,40
+217,★ Huntsman Knife Urban Masked,509,143
+218,★ Huntsman Knife Boreal Forest,509,77
+219,★ Huntsman Knife Ultraviolet,509,620
+220,★ Huntsman Knife Scorched,509,175
+221,★ Huntsman Knife -,509,0
+222,★ Huntsman Knife Doppler,509,417
+223,★ Falchion Knife Doppler,512,420
+224,★ Falchion Knife Gamma Doppler,512,568
+225,★ Falchion Knife Crimson Web,512,12
+226,★ Falchion Knife Doppler,512,421
+227,★ Falchion Knife Gamma Doppler,512,570
+228,★ Falchion Knife Doppler,512,415
+229,★ Falchion Knife Gamma Doppler,512,571
+230,★ Falchion Knife Black Laminate,512,1111
+231,★ Falchion Knife Doppler,512,419
+232,★ Falchion Knife Damascus Steel,512,411
+233,★ Falchion Knife Ultraviolet,512,621
+234,★ Falchion Knife Doppler,512,418
+235,★ Falchion Knife Blue Steel,512,42
+236,★ Falchion Knife Safari Mesh,512,72
+237,★ Falchion Knife Tiger Tooth,512,409
+238,★ Falchion Knife Gamma Doppler,512,569
+239,★ Falchion Knife Gamma Doppler,512,572
+240,★ Falchion Knife Bright Water,512,579
+241,★ Falchion Knife Case Hardened,512,44
+242,★ Falchion Knife Slaughter,512,59
+243,★ Falchion Knife Stained,512,43
+244,★ Falchion Knife Doppler,512,416
+245,★ Falchion Knife Scorched,512,175
+246,★ Falchion Knife Freehand,512,581
+247,★ Falchion Knife Rust Coat,512,414
+248,★ Falchion Knife Marble Fade,512,413
+249,★ Falchion Knife Lore,512,1106
+250,★ Falchion Knife Forest DDPAT,512,5
+251,★ Falchion Knife Night,512,40
+252,★ Falchion Knife Boreal Forest,512,77
+253,★ Falchion Knife Autotronic,512,1116
+254,★ Falchion Knife Urban Masked,512,143
+255,★ Falchion Knife -,512,0
+256,★ Falchion Knife Fade,512,38
+257, ★ Bowie Knife Black Laminate,514,1109
+258, ★ Bowie Knife Boreal Forest,514,77
+259, ★ Bowie Knife Crimson Web,514,12
+260, ★ Bowie Knife Doppler,514,419
+261, ★ Bowie Knife Blue Steel,514,42
+262, ★ Bowie Knife Gamma Doppler,514,570
+263, ★ Bowie Knife Gamma Doppler,514,571
+264, ★ Bowie Knife Doppler,514,420
+265, ★ Bowie Knife Gamma Doppler,514,572
+266, ★ Bowie Knife Case Hardened,514,44
+267, ★ Bowie Knife Doppler,514,421
+268, ★ Bowie Knife Doppler,514,418
+269, ★ Bowie Knife Forest DDPAT,514,5
+270, ★ Bowie Knife Tiger Tooth,514,409
+271, ★ Bowie Knife Bright Water,514,579
+272, ★ Bowie Knife Ultraviolet,514,98
+273, ★ Bowie Knife Urban Masked,514,143
+274, ★ Bowie Knife Safari Mesh,514,72
+275, ★ Bowie Knife Rust Coat,514,414
+276, ★ Bowie Knife Doppler,514,416
+277, ★ Bowie Knife Freehand,514,581
+278, ★ Bowie Knife Lore,514,1104
+279, ★ Bowie Knife Gamma Doppler,514,569
+280, ★ Bowie Knife Doppler,514,417
+281, ★ Bowie Knife Slaughter,514,59
+282, ★ Bowie Knife Damascus Steel,514,411
+283, ★ Bowie Knife Autotronic,514,1114
+284, ★ Bowie Knife -,514,0
+285, ★ Bowie Knife Night,514,40
+286, ★ Bowie Knife Stained,514,43
+287, ★ Bowie Knife Marble Fade,514,413
+288, ★ Bowie Knife Gamma Doppler,514,568
+289, ★ Bowie Knife Scorched,514,175
+290, ★ Bowie Knife Fade,514,38
+291, ★ Bowie Knife Doppler,514,415
+292, ★ Butterfly Knife Doppler,515,415
+293, ★ Butterfly Knife Doppler,515,418
+294, ★ Butterfly Knife Doppler,515,618
+295, ★ Butterfly Knife Night,515,40
+296, ★ Butterfly Knife Gamma Doppler,515,570
+297, ★ Butterfly Knife Doppler,515,420
+298, ★ Butterfly Knife Doppler,515,617
+299, ★ Butterfly Knife Doppler,515,421
+300, ★ Butterfly Knife Gamma Doppler,515,568
+301, ★ Butterfly Knife Gamma Doppler,515,569
+302, ★ Butterfly Knife Gamma Doppler,515,572
+303, ★ Butterfly Knife Gamma Doppler,515,571
+304, ★ Butterfly Knife Blue Steel,515,42
+305, ★ Butterfly Knife Autotronic,515,1115
+306, ★ Butterfly Knife Case Hardened,515,44
+307, ★ Butterfly Knife Scorched,515,175
+308, ★ Butterfly Knife Freehand,515,581
+309, ★ Butterfly Knife Forest DDPAT,515,5
+310, ★ Butterfly Knife Bright Water,515,579
+311, ★ Butterfly Knife Crimson Web,515,12
+312, ★ Butterfly Knife Urban Masked,515,143
+313, ★ Butterfly Knife Ultraviolet,515,98
+314, ★ Butterfly Knife Rust Coat,515,414
+315, ★ Butterfly Knife Stained,515,43
+316, ★ Butterfly Knife Damascus Steel,515,411
+317, ★ Butterfly Knife Safari Mesh,515,72
+318, ★ Butterfly Knife Black Laminate,515,1110
+319, ★ Butterfly Knife Boreal Forest,515,77
+320, ★ Butterfly Knife Lore,515,1105
+321, ★ Butterfly Knife Tiger Tooth,515,409
+322, ★ Butterfly Knife -,515,0
+323, ★ Butterfly Knife Marble Fade,515,413
+324, ★ Butterfly Knife Slaughter,515,59
+325, ★ Butterfly Knife Fade,515,38
+326, ★ Butterfly Knife Doppler,515,619
+327, ★ Shadow Daggers Night,516,40
+328, ★ Shadow Daggers Blue Steel,516,42
+329, ★ Shadow Daggers Case Hardened,516,44
+330, ★ Shadow Daggers Slaughter,516,59
+331, ★ Shadow Daggers Autotronic,516,1118
+332, ★ Shadow Daggers Damascus Steel,516,411
+333, ★ Shadow Daggers Doppler,516,618
+334, ★ Shadow Daggers Doppler,516,418
+335, ★ Shadow Daggers Doppler,516,415
+336, ★ Shadow Daggers Doppler,516,617
+337, ★ Shadow Daggers Scorched,516,175
+338, ★ Shadow Daggers Gamma Doppler,516,572
+339, ★ Shadow Daggers Freehand,516,581
+340, ★ Shadow Daggers Gamma Doppler,516,568
+341, ★ Shadow Daggers Lore,516,1108
+342, ★ Shadow Daggers Black Laminate,516,1113
+343, ★ Shadow Daggers Doppler,516,420
+344, ★ Shadow Daggers Doppler,516,421
+345, ★ Shadow Daggers Fade,516,38
+346, ★ Shadow Daggers Gamma Doppler,516,569
+347, ★ Shadow Daggers Gamma Doppler,516,571
+348, ★ Shadow Daggers Ultraviolet,516,98
+349, ★ Shadow Daggers Boreal Forest,516,77
+350, ★ Shadow Daggers Bright Water,516,579
+351, ★ Shadow Daggers Tiger Tooth,516,409
+352, ★ Shadow Daggers Crimson Web,516,12
+353, ★ Shadow Daggers Forest DDPAT,516,5
+354, ★ Shadow Daggers Gamma Doppler,516,570
+355, ★ Shadow Daggers Marble Fade,516,413
+356, ★ Shadow Daggers Rust Coat,516,414
+357, ★ Shadow Daggers Stained,516,43
+358, ★ Shadow Daggers Safari Mesh,516,72
+359, ★ Shadow Daggers Urban Masked,516,143
+360, ★ Shadow Daggers -,516,0
+361, ★ Shadow Daggers Doppler,516,619
+362, ★ Paracord Knife Doppler,517,415
+363, ★ Paracord Knife Crimson Web,517,12
+364, ★ Paracord Knife Doppler,517,420
+365, ★ Paracord Knife Doppler,517,419
+366, ★ Paracord Knife Case Hardened,517,44
+367, ★ Paracord Knife Doppler,517,417
+368, ★ Paracord Knife Doppler,517,418
+369, ★ Paracord Knife Ultraviolet,517,621
+370, ★ Paracord Knife Urban Masked,517,143
+371, ★ Paracord Knife Doppler,517,421
+372, ★ Paracord Knife Slaughter,517,59
+373, ★ Paracord Knife Boreal Forest,517,77
+374, ★ Paracord Knife -,517,0
+375, ★ Paracord Knife Blue Steel,517,42
+376, ★ Paracord Knife Fade,517,38
+377, ★ Paracord Knife Damascus Steel,517,410
+378, ★ Paracord Knife Safari Mesh,517,72
+379, ★ Paracord Knife Marble Fade,517,413
+380, ★ Paracord Knife Night Stripe,517,735
+381, ★ Paracord Knife Scorched,517,175
+382, ★ Paracord Knife Forest DDPAT,517,5
+383, ★ Paracord Knife Rust Coat,517,414
+384, ★ Paracord Knife Stained,517,43
+385, ★ Paracord Knife Tiger Tooth,517,409
+386, ★ Paracord Knife Doppler,517,416
+387, ★ Survival Knife Marble Fade,518,413
+388, ★ Survival Knife Crimson Web,518,12
+389, ★ Survival Knife Case Hardened,518,44
+390, ★ Survival Knife Scorched,518,175
+391, ★ Survival Knife Blue Steel,518,42
+392, ★ Survival Knife Doppler,518,419
+393, ★ Survival Knife Doppler,518,420
+394, ★ Survival Knife Doppler,518,416
+395, ★ Survival Knife Doppler,518,418
+396, ★ Survival Knife Doppler,518,421
+397, ★ Survival Knife Damascus Steel,518,410
+398, ★ Survival Knife Slaughter,518,59
+399, ★ Survival Knife Rust Coat,518,414
+400, ★ Survival Knife Stained,518,43
+401, ★ Survival Knife -,518,0
+402, ★ Survival Knife Urban Masked,518,143
+403, ★ Survival Knife Tiger Tooth,518,409
+404, ★ Survival Knife Ultraviolet,518,98
+405, ★ Survival Knife Boreal Forest,518,77
+406, ★ Survival Knife Forest DDPAT,518,5
+407, ★ Survival Knife Night Stripe,518,735
+408, ★ Survival Knife Safari Mesh,518,72
+409, ★ Survival Knife Fade,518,38
+410, ★ Survival Knife Doppler,518,417
+411, ★ Survival Knife Doppler,518,415
+412, ★ Ursus Knife Fade,519,38
+413, ★ Ursus Knife Doppler,519,416
+414, ★ Ursus Knife Case Hardened,519,44
+415, ★ Ursus Knife Doppler,519,419
+416, ★ Ursus Knife Doppler,519,417
+417, ★ Ursus Knife Doppler,519,421
+418, ★ Ursus Knife Doppler,519,418
+419, ★ Ursus Knife Slaughter,519,59
+420, ★ Ursus Knife Doppler,519,420
+421, ★ Ursus Knife Blue Steel,519,42
+422, ★ Ursus Knife Scorched,519,175
+423, ★ Ursus Knife Stained,519,43
+424, ★ Ursus Knife Damascus Steel,519,857
+425, ★ Ursus Knife Night Stripe,519,735
+426, ★ Ursus Knife Rust Coat,519,414
+427, ★ Ursus Knife Boreal Forest,519,77
+428, ★ Ursus Knife -,519,0
+429, ★ Ursus Knife Forest DDPAT,519,5
+430, ★ Ursus Knife Crimson Web,519,12
+431, ★ Ursus Knife Urban Masked,519,143
+432, ★ Ursus Knife Ultraviolet,519,98
+433, ★ Ursus Knife Tiger Tooth,519,409
+434, ★ Ursus Knife Safari Mesh,519,72
+435, ★ Ursus Knife Doppler,519,415
+436, ★ Ursus Knife Marble Fade,519,413
+437, ★ Navaja Knife Doppler,520,419
+438, ★ Navaja Knife Doppler,520,418
+439, ★ Navaja Knife Scorched,520,175
+440, ★ Navaja Knife Blue Steel,520,42
+441, ★ Navaja Knife Boreal Forest,520,77
+442, ★ Navaja Knife Slaughter,520,59
+443, ★ Navaja Knife Doppler,520,417
+444, ★ Navaja Knife Case Hardened,520,44
+445, ★ Navaja Knife Marble Fade,520,413
+446, ★ Navaja Knife Safari Mesh,520,72
+447, ★ Navaja Knife Doppler,520,420
+448, ★ Navaja Knife Ultraviolet,520,98
+449, ★ Navaja Knife Tiger Tooth,520,409
+450, ★ Navaja Knife Doppler,520,421
+451, ★ Navaja Knife Rust Coat,520,414
+452, ★ Navaja Knife Damascus Steel,520,857
+453, ★ Navaja Knife -,520,0
+454, ★ Navaja Knife Crimson Web,520,12
+455, ★ Navaja Knife Stained,520,43
+456, ★ Navaja Knife Doppler,520,416
+457, ★ Navaja Knife Night Stripe,520,735
+458, ★ Navaja Knife Forest DDPAT,520,5
+459, ★ Navaja Knife Fade,520,38
+460, ★ Navaja Knife Urban Masked,520,143
+461, ★ Navaja Knife Doppler,520,415
+462, ★ Nomad Knife Doppler,521,416
+463, ★ Nomad Knife Doppler,521,415
+464, ★ Nomad Knife Scorched,521,175
+465, ★ Nomad Knife Doppler,521,418
+466, ★ Nomad Knife Doppler,521,420
+467, ★ Nomad Knife Doppler,521,421
+468, ★ Nomad Knife Doppler,521,419
+469, ★ Nomad Knife Stained,521,43
+470, ★ Nomad Knife Tiger Tooth,521,409
+471, ★ Nomad Knife Night Stripe,521,735
+472, ★ Nomad Knife Case Hardened,521,44
+473, ★ Nomad Knife Doppler,521,417
+474, ★ Nomad Knife Crimson Web,521,12
+475, ★ Nomad Knife Forest DDPAT,521,5
+476, ★ Nomad Knife -,521,0
+477, ★ Nomad Knife Marble Fade,521,413
+478, ★ Nomad Knife Blue Steel,521,42
+479, ★ Nomad Knife Damascus Steel,521,410
+480, ★ Nomad Knife Ultraviolet,521,98
+481, ★ Nomad Knife Safari Mesh,521,72
+482, ★ Nomad Knife Boreal Forest,521,77
+483, ★ Nomad Knife Slaughter,521,59
+484, ★ Nomad Knife Rust Coat,521,414
+485, ★ Nomad Knife Fade,521,38
+486, ★ Nomad Knife Urban Masked,521,143
+487, ★ Stiletto Knife Doppler,522,416
+488, ★ Stiletto Knife Crimson Web,522,12
+489, ★ Stiletto Knife Doppler,522,415
+490, ★ Stiletto Knife Doppler,522,417
+491, ★ Stiletto Knife Doppler,522,419
+492, ★ Stiletto Knife Case Hardened,522,44
+493, ★ Stiletto Knife Doppler,522,420
+494, ★ Stiletto Knife Safari Mesh,522,72
+495, ★ Stiletto Knife Doppler,522,421
+496, ★ Stiletto Knife Urban Masked,522,143
+497, ★ Stiletto Knife Doppler,522,418
+498, ★ Stiletto Knife Blue Steel,522,42
+499, ★ Stiletto Knife Ultraviolet,522,98
+500, ★ Stiletto Knife Damascus Steel,522,857
+501, ★ Stiletto Knife -,522,0
+502, ★ Stiletto Knife Boreal Forest,522,77
+503, ★ Stiletto Knife Forest DDPAT,522,5
+504, ★ Stiletto Knife Scorched,522,175
+505, ★ Stiletto Knife Stained,522,43
+506, ★ Stiletto Knife Marble Fade,522,413
+507, ★ Stiletto Knife Night Stripe,522,735
+508, ★ Stiletto Knife Slaughter,522,59
+509, ★ Stiletto Knife Fade,522,38
+510, ★ Stiletto Knife Rust Coat,522,414
+511, ★ Stiletto Knife Tiger Tooth,522,409
+512, ★ Talon Knife Doppler,523,852
+513, ★ Talon Knife Doppler,523,415
+514, ★ Talon Knife Doppler,523,416
+515, ★ Talon Knife Doppler,523,855
+516, ★ Talon Knife Doppler,523,417
+517, ★ Talon Knife Doppler,523,853
+518, ★ Talon Knife Doppler,523,854
+519, ★ Talon Knife Fade,523,38
+520, ★ Talon Knife Blue Steel,523,42
+521, ★ Talon Knife Urban Masked,523,143
+522, ★ Talon Knife Ultraviolet,523,98
+523, ★ Talon Knife Forest DDPAT,523,5
+524, ★ Talon Knife Scorched,523,175
+525, ★ Talon Knife Slaughter,523,59
+526, ★ Talon Knife Case Hardened,523,44
+527, ★ Talon Knife Marble Fade,523,856
+528, ★ Talon Knife Crimson Web,523,12
+529, ★ Talon Knife Stained,523,43
+530, ★ Talon Knife Night Stripe,523,735
+531, ★ Talon Knife Boreal Forest,523,77
+532, ★ Talon Knife Damascus Steel,523,858
+533, ★ Talon Knife Safari Mesh,523,72
+534, ★ Talon Knife Rust Coat,523,414
+535, ★ Talon Knife -,523,0
+536, ★ Talon Knife Tiger Tooth,523,409
+537, ★ Skeleton Knife Doppler,525,417
+538, ★ Skeleton Knife Doppler,525,419
+539, ★ Skeleton Knife Doppler,525,416
+540, ★ Skeleton Knife Doppler,525,418
+541, ★ Skeleton Knife Doppler,525,415
+542, ★ Skeleton Knife Doppler,525,421
+543, ★ Skeleton Knife Marble Fade,525,413
+544, ★ Skeleton Knife Case Hardened,525,44
+545, ★ Skeleton Knife Doppler,525,420
+546, ★ Skeleton Knife Scorched,525,175
+547, ★ Skeleton Knife Damascus Steel,525,410
+548, ★ Skeleton Knife Crimson Web,525,12
+549, ★ Skeleton Knife -,525,0
+550, ★ Skeleton Knife Safari Mesh,525,72
+551, ★ Skeleton Knife Fade,525,38
+552, ★ Skeleton Knife Ultraviolet,525,98
+553, ★ Skeleton Knife Blue Steel,525,42
+554, ★ Skeleton Knife Stained,525,43
+555, ★ Skeleton Knife Urban Masked,525,143
+556, ★ Skeleton Knife Tiger Tooth,525,409
+557, ★ Skeleton Knife Forest DDPAT,525,5
+558, ★ Skeleton Knife Night Stripe,525,735
+559, ★ Skeleton Knife Rust Coat,525,414
+560, ★ Skeleton Knife Boreal Forest,525,77
+561, ★ Skeleton Knife Slaughter,525,59
+562, ★ Kukri Knife Boreal Forest,526,77
+563, ★ Kukri Knife Urban Masked,526,143
+564, ★ Kukri Knife Case Hardened,526,44
+565, ★ Kukri Knife Blue Steel,526,42
+566, ★ Kukri Knife Night Stripe,526,735
+567, ★ Kukri Knife Scorched,526,175
+568, ★ Kukri Knife Fade,526,38
+569, ★ Kukri Knife Slaughter,526,59
+570, ★ Kukri Knife Stained,526,43
+571, ★ Kukri Knife Forest DDPAT,526,5
+572, ★ Kukri Knife Safari Mesh,526,72
+573, ★ Kukri Knife Crimson Web,526,12
+574, ★ Kukri Knife -,526,0
+575, ★ Broken Fang Gloves Needle Point,4725,10087
+576, ★ Broken Fang Gloves Unhinged,4725,10088
+577, ★ Broken Fang Gloves Yellow-banded,4725,10086
+578, ★ Broken Fang Gloves Jade,4725,10085
+579, ★ Bloodhound Gloves Guerrilla,5027,10039
+580, ★ Bloodhound Gloves Bronzed,5027,10008
+581, ★ Bloodhound Gloves Charred,5027,10006
+582, ★ Bloodhound Gloves Snakebite,5027,10007
+583, ★ Sport Gloves Pandora's Box,5030,10037
+584, ★ Sport Gloves Nocts,5030,10076
+585, ★ Sport Gloves Vice,5030,10048
+586, ★ Sport Gloves Arid,5030,10019
+587, ★ Sport Gloves Superconductor,5030,10018
+588, ★ Sport Gloves Omega,5030,10047
+589, ★ Sport Gloves Amphibious,5030,10045
+590, ★ Sport Gloves Big Game,5030,10074
+591, ★ Sport Gloves Scarlet Shamagh,5030,10075
+592, ★ Sport Gloves Bronze Morph,5030,10046
+593, ★ Sport Gloves Hedge Maze,5030,10038
+594, ★ Sport Gloves Slingshot,5030,10073
+595, ★ Moto Gloves Spearmint,5033,10026
+596, ★ Moto Gloves Cool Mint,5033,10028
+597, ★ Moto Gloves Boom!,5033,10027
+598, ★ Moto Gloves Eclipse,5033,10024
+599, ★ Moto Gloves Finish Line,5033,10077
+600, ★ Moto Gloves 3rd Commando Company,5033,10080
+601, ★ Moto Gloves Turtle,5033,10050
+602, ★ Moto Gloves Smoke Out,5033,10078
+603, ★ Moto Gloves Transport,5033,10051
+604, ★ Moto Gloves POW!,5033,10049
+605, ★ Moto Gloves Polygon,5033,10052
+606, ★ Moto Gloves Blood Pressure,5033,10079
+607, ★ Specialist Gloves Crimson Kimono,5034,10033
+608, ★ Specialist Gloves Emerald Web,5034,10034
+609, ★ Specialist Gloves Foundation,5034,10035
+610, ★ Specialist Gloves Crimson Web,5034,10061
+611, ★ Specialist Gloves Forest DDPAT,5034,10030
+612, ★ Specialist Gloves Fade,5034,10063
+613, ★ Specialist Gloves Mogul,5034,10064
+614, ★ Specialist Gloves Lt. Commander,5034,10066
+615, ★ Specialist Gloves Tiger Strike,5034,10067
+616, ★ Specialist Gloves Marble Fade,5034,10065
+617, ★ Specialist Gloves Field Agent,5034,10068
+618, ★ Specialist Gloves Buckshot,5034,10062
+619, ★ Hydra Gloves Case Hardened,5035,10060
+620, ★ Hydra Gloves Rattler,5035,10059
+621, ★ Hydra Gloves Emerald,5035,10057
+622, ★ Hydra Gloves Mangrove,5035,10058
+623, Desert Eagle Emerald Jörmungandr,1,757
+624, Desert Eagle Hand Cannon,1,328
+625, Desert Eagle Printstream,1,962
+626, Desert Eagle Golden Koi,1,185
+627, Desert Eagle Sunset Storm 壱,1,469
+628, Desert Eagle Heat Treated,1,1054
+629, Desert Eagle Fennec Fox,1,764
+630, Desert Eagle Ocean Drive,1,1090
+631, Desert Eagle Hypnotic,1,61
+632, Desert Eagle Code Red,1,711
+633, Desert Eagle Kumicho Dragon,1,527
+634, Desert Eagle Meteorite,1,296
+635, Desert Eagle Mint Fan,1,1257
+636, Desert Eagle Cobalt Disruption,1,231
+637, Desert Eagle Mecha Industries,1,805
+638, Desert Eagle Heirloom,1,273
+639, Desert Eagle Urban DDPAT,1,17
+640, Desert Eagle Directive,1,603
+641, Desert Eagle Crimson Web,1,232
+642, Desert Eagle Corinthian,1,509
+643, Desert Eagle Night,1,40
+644, Desert Eagle Calligraffiti,1,114
+645, Desert Eagle Sputnik,1,1056
+646, Desert Eagle Oxide Blaze,1,645
+647, Desert Eagle Light Rail,1,841
+648, Desert Eagle Blue Ply,1,945
+649, Desert Eagle Serpent Strike,1,1189
+650, Desert Eagle Bronze Deco,1,425
+651, Desert Eagle Trigger Discipline,1,1050
+652, Desert Eagle Mudder,1,90
+653, Desert Eagle Naga,1,397
+654, Desert Eagle Urban Rubble,1,237
+655, Desert Eagle Midnight Storm,1,468
+656, Desert Eagle Starcade,1,938
+657, Desert Eagle Tilted,1,138
+658, Desert Eagle The Bronze,1,992
+659, Desert Eagle Conspiracy,1,351
+660, Desert Eagle Mulberry,1,1318
+661, Dual Berettas Hemoglobin,2,220
+662, Dual Berettas Contractor,2,46
+663, Dual Berettas Sweet Little Angels,2,139
+664, Dual Berettas Marina,2,261
+665, Dual Berettas Briar,2,330
+666, Dual Berettas Balance,2,895
+667, Dual Berettas Hydro Strike,2,112
+668, Dual Berettas Black Limba,2,190
+669, Dual Berettas Cobra Strike,2,658
+670, Dual Berettas Demolition,2,153
+671, Dual Berettas Melondrama,2,1126
+672, Dual Berettas Shred,2,710
+673, Dual Berettas Cartel,2,528
+674, Dual Berettas Ventilators,2,544
+675, Dual Berettas Hideout,2,1169
+676, Dual Berettas Cobalt Quartz,2,249
+677, Dual Berettas Elite 1.6,2,903
+678, Dual Berettas Dualing Dragons,2,491
+679, Dual Berettas Panther,2,276
+680, Dual Berettas Drift Wood,2,824
+681, Dual Berettas Oil Change,2,1086
+682, Dual Berettas Flora Carnivora,2,1156
+683, Dual Berettas Tread,2,1091
+684, Dual Berettas Twin Turbo,2,747
+685, Dual Berettas Rose Nacre,2,1263
+686, Dual Berettas Stained,2,43
+687, Dual Berettas Polished Malachite,2,1290
+688, Dual Berettas Retribution,2,307
+689, Dual Berettas BorDeux,2,1335
+690, Dual Berettas Colony,2,47
+691, Dual Berettas Royal Consorts,2,625
+692, Dual Berettas Urban Shock,2,396
+693, Five-SeveN Neon Kimono,3,464
+694, Five-SeveN Case Hardened,3,44
+695, Five-SeveN Angry Mob,3,837
+696, Five-SeveN Nitro,3,254
+697, Five-SeveN Hot Shot,3,377
+698, Five-SeveN Heat Treated,3,831
+699, Five-SeveN Hyper Beast,3,660
+700, Five-SeveN Fairy Tale,3,979
+701, Five-SeveN Contractor,3,46
+702, Five-SeveN Berries And Cherries,3,1002
+703, Five-SeveN Scrawl,3,1128
+704, Five-SeveN Monkey Business,3,427
+705, Five-SeveN Capillary,3,646
+706, Five-SeveN Kami,3,265
+707, Five-SeveN Hybrid,3,1168
+708, Five-SeveN Jungle,3,151
+709, Five-SeveN Retrobution,3,510
+710, Five-SeveN Buddy,3,906
+711, Five-SeveN Withered Vine,3,932
+712, Five-SeveN Boost Protocol,3,1093
+713, Five-SeveN Coolant,3,784
+714, Five-SeveN Orange Peel,3,141
+715, Five-SeveN Scumbria,3,605
+716, Five-SeveN Flame Test,3,693
+717, Five-SeveN Midnight Paintover,3,1062
+718, Five-SeveN Urban Hazard,3,387
+719, Five-SeveN Sky Blue,3,1262
+720, Five-SeveN Silver Quartz,3,252
+721, Five-SeveN Copper Galaxy,3,274
+722, Five-SeveN Violent Daimyo,3,585
+723, Five-SeveN Autumn Thicket,3,1336
+724, Five-SeveN Fowl Play,3,352
+725, Glock-18 Night,4,40
+726, Glock-18 Gold Toof,4,129
+727, Glock-18 Twilight Galaxy,4,437
+728, Glock-18 Water Elemental,4,353
+729, Glock-18 Wasteland Rebel,4,586
+730, Glock-18 Gamma Doppler,4,1119
+731, Glock-18 Ramese's Reach,4,1240
+732, Glock-18 Reactor,4,367
+733, Glock-18 Blue Fissure,4,278
+734, Glock-18 Bunsen Burner,4,479
+735, Glock-18 Gamma Doppler,4,1120
+736, Glock-18 Moonrise,4,694
+737, Glock-18 Pink DDPAT,4,84
+738, Glock-18 Steel Disruption,4,230
+739, Glock-18 Gamma Doppler,4,1121
+740, Glock-18 Red Tire,4,1079
+741, Glock-18 Gamma Doppler,4,1122
+742, Glock-18 Grinder,4,381
+743, Glock-18 Groundwater,4,2
+744, Glock-18 Vogue,4,963
+745, Glock-18 Neo-Noir,4,988
+746, Glock-18 Nuclear Garden,4,789
+747, Glock-18 Ironwork,4,623
+748, Glock-18 Block-18,4,1167
+749, Glock-18 Ocean Topo,4,1265
+750, Glock-18 High Beam,4,799
+751, Glock-18 Green Line,4,1200
+752, Glock-18 Clear Polymer,4,1039
+753, Glock-18 Wraiths,4,495
+754, Glock-18 Winterized,4,1158
+755, Glock-18 Sacrifice,4,918
+756, Glock-18 Warhawk,4,713
+757, Glock-18 Oxide Blaze,4,808
+758, Glock-18 Off World,4,680
+759, Glock-18 Death Rattle,4,293
+760, Glock-18 Catacombs,4,399
+761, Glock-18 Shinobu,4,1208
+762, Glock-18 Umbral Rabbit,4,1227
+763, Glock-18 Dragon Tattoo,4,48
+764, Glock-18 Snack Attack,4,1100
+765, Glock-18 AXIA,4,832
+766, Glock-18 Bullet Queen,4,957
+767, Glock-18 Candy Apple,4,3
+768, Glock-18 Teal Graf,4,152
+769, Glock-18 Gamma Doppler,4,1123
+770, Glock-18 Weasel,4,607
+771, Glock-18 Royal Legion,4,532
+772, Glock-18 Coral Bloom,4,1312
+773, Glock-18 Brass,4,159
+774, AK-47 Hydroponic,7,456
+775, AK-47 Vulcan,7,302
+776, AK-47 Fire Serpent,7,180
+777, AK-47 Fuel Injector,7,524
+778, AK-47 The Empress,7,675
+779, AK-47 X-Ray,7,1004
+780, AK-47 Gold Arabesque,7,921
+781, AK-47 Orbit Mk01,7,656
+782, AK-47 Wild Lotus,7,724
+783, AK-47 Point Disarray,7,506
+784, AK-47 Asiimov,7,801
+785, AK-47 Leet Museo,7,1087
+786, AK-47 Case Hardened,7,44
+787, AK-47 Frontside Misty,7,490
+788, AK-47 Redline,7,282
+789, AK-47 Red Laminate,7,14
+790, AK-47 Neon Rider,7,707
+791, AK-47 Neon Revolution,7,600
+792, AK-47 Inheritance,7,1171
+793, AK-47 Blue Laminate,7,226
+794, AK-47 Midnight Laminate,7,1218
+795, AK-47 B the Monster,7,142
+796, AK-47 Safety Net,7,795
+797, AK-47 Panthera onca,7,1018
+798, AK-47 Rat Rod,7,885
+799, AK-47 Jet Set,7,340
+800, AK-47 Phantom Disruptor,7,941
+801, AK-47 Bloodsport,7,639
+802, AK-47 Elite Build,7,422
+803, AK-47 Nouveau Rouge,7,1309
+804, AK-47 Green Laminate,7,1070
+805, AK-47 Jaguar,7,316
+806, AK-47 Aquamarine Revenge,7,474
+807, AK-47 Slate,7,1035
+808, AK-47 Wasteland Rebel,7,380
+809, AK-47 Cartel,7,394
+810, AK-47 Safari Mesh,7,72
+811, AK-47 Steel Delta,7,1238
+812, AK-47 Emerald Pinstripe,7,300
+813, AK-47 Predator,7,170
+814, AK-47 Searing Rage,7,1207
+815, AK-47 Crossfade,7,912
+816, AK-47 The Outsiders,7,113
+817, AK-47 Nightwish,7,1141
+818, AK-47 Uncharted,7,836
+819, AK-47 Ice Coaled,7,1143
+820, AK-47 VariCamo Grey,7,1288
+821, AK-47 Legion of Anubis,7,959
+822, AK-47 First Class,7,341
+823, AK-47 Head Shot,7,1221
+824, AK-47 Olive Polycam,7,1179
+825, AK-47 Jungle Spray,7,122
+826, AK-47 Wintergreen,7,1283
+827, AK-47 Black Laminate,7,172
+828, AUG Storm,8,100
+829, AUG Chameleon,8,280
+830, AUG Sand Storm,8,823
+831, AUG Momentum,8,845
+832, AUG Condemned,8,110
+833, AUG Contractor,8,46
+834, AUG Arctic Wolf,8,886
+835, AUG Stymphalian,8,690
+836, AUG Colony,8,47
+837, AUG Random Access,8,779
+838, AUG Flame Jörmungandr,8,758
+839, AUG Torque,8,305
+840, AUG Amber Fade,8,246
+841, AUG Carved Jade,8,1033
+842, AUG Navy Murano,8,740
+843, AUG Surveillance,8,995
+844, AUG Lil' Pig,8,173
+845, AUG Bengal Tiger,8,9
+846, AUG Plague,8,1088
+847, AUG Tom Cat,8,942
+848, AUG Aristocrat,8,583
+849, AUG Ricochet,8,507
+850, AUG Luxe Trim,8,121
+851, AUG Amber Slipstream,8,708
+852, AUG Spalted Wood,8,927
+853, AUG Sweeper,8,794
+854, AUG Triqua,8,674
+855, AUG Snake Pit,8,1249
+856, AUG Syd Mead,8,601
+857, AUG Daedalus,8,444
+858, AUG Death by Puppy,8,913
+859, AUG Commando Company,8,1308
+860, AUG Steel Sentinel,8,1198
+861, AWP Safari Mesh,9,72
+862, AWP The Prince,9,736
+863, AWP Redline,9,259
+864, AWP Green Energy,9,1280
+865, AWP Asiimov,9,279
+866, AWP Dragon Lore,9,344
+867, AWP Oni Taiji,9,662
+868, AWP Electric Hive,9,227
+869, AWP Desert Hydra,9,819
+870, AWP Hyper Beast,9,475
+871, AWP Silk Tiger,9,1029
+872, AWP POP AWP,9,1058
+873, AWP LongDog,9,1213
+874, AWP Printstream,9,1206
+875, AWP Neo-Noir,9,803
+876, AWP PAW,9,718
+877, AWP Corticera,9,181
+878, AWP Snake Camo,9,30
+879, AWP Duality,9,1222
+880, AWP Phobos,9,584
+881, AWP Sun in Leo,9,451
+882, AWP Atheris,9,838
+883, AWP Wildfire,9,917
+884, AWP Chrome Cannon,9,1170
+885, AWP Exoskeleton,9,975
+886, AWP Man-o'-war,9,395
+887, AWP Elite Build,9,525
+888, AWP Pink DDPAT,9,84
+889, AWP Chromatic Aberration,9,1144
+890, AWP Black Nile,9,1239
+891, AWP Mortis,9,691
+892, AWP Pit Viper,9,251
+893, AWP Capillary,9,943
+894, AWP Acheron,9,788
+895, AWP Crakow!,9,137
+896, AWP Worm God,9,424
+897, AWP BOOM,9,174
+898, AWP Arsenic Spill,9,1324
+899, AWP Fever Dream,9,640
+900, FAMAS Styx,10,371
+901, FAMAS Waters of Nephthys,10,1241
+902, FAMAS Contrast Spray,10,22
+903, FAMAS Roll Cage,10,604
+904, FAMAS Eye of Athena,10,723
+905, FAMAS Meltdown,10,1053
+906, FAMAS Spitfire,10,194
+907, FAMAS Colony,10,47
+908, FAMAS Prime Conspiracy,10,999
+909, FAMAS Teardown,10,244
+910, FAMAS Mecha Industries,10,626
+911, FAMAS Rapid Eye Movement,10,1127
+912, FAMAS Hexane,10,218
+913, FAMAS Neural Net,10,477
+914, FAMAS Bad Trip,10,1184
+915, FAMAS Sergeant,10,288
+916, FAMAS Survivor Z,10,492
+917, FAMAS 2A2F,10,1202
+918, FAMAS Crypsis,10,835
+919, FAMAS Macabre,10,659
+920, FAMAS Decommissioned,10,904
+921, FAMAS Grey Ghost,10,1321
+922, FAMAS CaliCamo,10,240
+923, FAMAS Dark Water,10,60
+924, FAMAS Meow 36,10,1146
+925, FAMAS Palm,10,1302
+926, FAMAS Valence,10,529
+927, FAMAS Cyanospatter,10,92
+928, FAMAS Yeti Camo,10,1219
+929, FAMAS Djinn,10,429
+930, FAMAS Halftone Wash,10,882
+931, FAMAS ZX Spectron,10,1092
+932, FAMAS Commemoration,10,919
+933, FAMAS Faulty Wiring,10,1066
+934, FAMAS Half Sleeve,10,461
+935, FAMAS Pulse,10,260
+936, Galil AR Cerberus,13,379
+937, Galil AR Winter Forest,13,76
+938, Galil AR Aqua Terrace,13,460
+939, Galil AR VariCamo,13,235
+940, Galil AR Urban Rubble,13,237
+941, Galil AR Sage Spray,13,119
+942, Galil AR Orange DDPAT,13,83
+943, Galil AR Eco,13,428
+944, Galil AR CAUTION!,13,1071
+945, Galil AR Chromatic Aberration,13,1038
+946, Galil AR Rainbow Spoon,13,1178
+947, Galil AR Hunting Blind,13,241
+948, Galil AR Control,13,1185
+949, Galil AR Metallic Squeezer,13,239
+950, Galil AR Akoben,13,842
+951, Galil AR Stone Cold,13,494
+952, Galil AR Amber Fade,13,246
+953, Galil AR Cold Fusion,13,790
+954, Galil AR Firefight,13,546
+955, Galil AR Robin's Egg,13,1264
+956, Galil AR Destroyer,13,1147
+957, Galil AR Signal,13,807
+958, Galil AR Rocket Pop,13,478
+959, Galil AR Green Apple,13,294
+960, Galil AR O-Ranger,13,1314
+961, Galil AR Black Sand,13,629
+962, Galil AR Acid Dart,13,1296
+963, Galil AR Grey Smoke,13,1275
+964, Galil AR Connexion,13,972
+965, Galil AR Tuxedo,13,297
+966, Galil AR Crimson Tsunami,13,647
+967, Galil AR Vandal,13,981
+968, Galil AR Sandstorm,13,264
+969, Galil AR Tornado,13,101
+970, Galil AR Dusk Ruins,13,1032
+971, MAC-10 Case Hardened,17,44
+972, MAC-10 Candy Apple,17,3
+973, MAC-10 Indigo,17,333
+974, MAC-10 Neon Rider,17,433
+975, MAC-10 Last Dive,17,651
+976, MAC-10 Red Filigree,17,742
+977, MAC-10 Ultraviolet,17,98
+978, MAC-10 Nuclear Garden,17,372
+979, MAC-10 Propaganda,17,1067
+980, MAC-10 Pipe Down,17,812
+981, MAC-10 Stalker,17,898
+982, MAC-10 Malachite,17,402
+983, MAC-10 Tatter,17,337
+984, MAC-10 Disco Tech,17,947
+985, MAC-10 Sakkaku,17,1229
+986, MAC-10 Aloha,17,665
+987, MAC-10 Button Masher,17,1045
+988, MAC-10 Echoing Sands,17,1244
+989, MAC-10 Rangeen,17,498
+990, MAC-10 Classic Crate,17,908
+991, MAC-10 Light Box,17,1164
+992, MAC-10 Allure,17,965
+993, MAC-10 Oceanic,17,682
+994, MAC-10 Sienna Damask,17,826
+995, MAC-10 Pipsqueak,17,140
+996, MAC-10 Poplar Thicket,17,1285
+997, MAC-10 Calf Skin,17,748
+998, MAC-10 Whitefish,17,840
+999, MAC-10 Acid Hex,17,1295
+1000, MAC-10 Lapis Gator,17,534
+1001, MAC-10 Bronzer,17,1334
+1002, MAC-10 Urban DDPAT,17,17
+1003, MAC-10 Palm,17,157
+1004, MAC-10 Fade,17,38
+1005, MAC-10 Saibā Oni,17,126
+1006, MAC-10 Monkeyflage,17,1150
+1007, MAC-10 Derailment,17,1204
+1008, MAC-10 Ensnared,17,1131
+1009, MAC-10 Graven,17,188
+1010, MAC-10 Storm Camo,17,1269
+1011, MAC-10 Strats,17,1075
+1012, MAC-10 Carnivore,17,589
+1013, MAC-10 Silver,17,32
+1014, M4A4 Red DDPAT,16,926
+1015, M4A4 Cyber Security,16,985
+1016, M4A4 Buzz Kill,16,632
+1017, M4A4 Poseidon,16,449
+1018, M4A4 The Coalition,16,1063
+1019, M4A4 Desolate Space,16,588
+1020, M4A4 Urban DDPAT,16,17
+1021, M4A4 Hellfire,16,664
+1022, M4A4 Radiation Hazard,16,167
+1023, M4A4 Eye of Horus,16,1255
+1024, M4A4 Neo-Noir,16,695
+1025, M4A4 X-Ray,16,215
+1026, M4A4 Desert-Strike,16,336
+1027, M4A4 Royal Paladin,16,512
+1028, M4A4 Desert Storm,16,8
+1029, M4A4 Griffin,16,384
+1030, M4A4 The Emperor,16,844
+1031, M4A4 Asiimov,16,255
+1032, M4A4 Bullet Rain,16,155
+1033, M4A4 Zirka,16,187
+1034, M4A4 Tornado,16,101
+1035, M4A4 Temukau,16,1228
+1036, M4A4 Tooth Fairy,16,971
+1037, M4A4 龍王 (Dragon King),16,400
+1038, M4A4 Faded Zebra,16,176
+1039, M4A4 Turbine,16,118
+1040, M4A4 Jungle Tiger,16,16
+1041, M4A4 Etch Lord,16,1165
+1042, M4A4 Polysoup,16,874
+1043, M4A4 Magnesium,16,811
+1044, M4A4 Modern Hunter,16,164
+1045, M4A4 Steel Work,16,1313
+1046, M4A4 Mainframe,16,780
+1047, M4A4 Choppa,16,1210
+1048, M4A4 Converter,16,793
+1049, M4A4 In Living Color,16,1041
+1050, M4A4 Hellish,16,1209
+1051, M4A4 The Battlestar,16,533
+1052, M4A4 Poly Mag,16,1149
+1053, M4A4 Naval Shred Camo,16,1266
+1054, M4A4 Evil Daimyo,16,480
+1055, M4A4 Spider Lily,16,1097
+1056, M4A4 Sheet Lightning,16,1281
+1057, Tec-9 Toxic,30,374
+1058, Tec-9 Brass,30,159
+1059, Tec-9 Terrace,30,463
+1060, Tec-9 Red Quartz,30,248
+1061, Tec-9 Groundwater,30,2
+1062, Tec-9 Remote Control,30,791
+1063, Tec-9 Isaac,30,303
+1064, Tec-9 Ice Cap,30,599
+1065, Tec-9 Blue Titanium,30,216
+1066, Tec-9 Rust Leaf,30,733
+1067, Tec-9 Brother,30,964
+1068, Tec-9 Ossified,30,36
+1069, Tec-9 Phoenix Chalk,30,1010
+1070, Tec-9 Blast From the Past,30,1024
+1071, Tec-9 Bamboozle,30,839
+1072, Tec-9 Titanium Bit,30,272
+1073, Tec-9 Jambiya,30,539
+1074, Tec-9 Citric Acid,30,1322
+1075, Tec-9 Cracked Opal,30,684
+1076, Tec-9 Flash Out,30,905
+1077, Tec-9 Slag,30,1159
+1078, Tec-9 Rebel,30,1235
+1079, Tec-9 Snek-9,30,722
+1080, Tec-9 Fubar,30,816
+1081, Tec-9 Sandstorm,30,289
+1082, Tec-9 VariCamo,30,235
+1083, Tec-9 Raw Ceramic,30,1299
+1084, Tec-9 Avalanche,30,520
+1085, Tec-9 Mummy's Rot,30,1252
+1086, Tec-9 Blue Blast,30,1279
+1087, Tec-9 Army Mesh,30,242
+1088, Tec-9 Urban DDPAT,30,17
+1089, P2000 Granite Marbleized,32,21
+1090, P2000 Pathfinder,32,443
+1091, P2000 Amber Fade,32,246
+1092, P2000 Corticera,32,184
+1093, P2000 Fire Elemental,32,389
+1094, P2000 Dispatch,32,997
+1095, P2000 Scorpion,32,71
+1096, P2000 Handgun,32,485
+1097, P2000 Red FragCam,32,275
+1098, P2000 Acid Etched,32,951
+1099, P2000 Oceanic,32,550
+1100, P2000 Grassland,32,95
+1101, P2000 Imperial,32,515
+1102, P2000 Ivory,32,357
+1103, P2000 Pulse,32,338
+1104, P2000 Urban Hazard,32,700
+1105, P2000 Gnarled,32,960
+1106, P2000 Sure Grip,32,1181
+1107, P2000 Wicked Sick,32,1224
+1108, P2000 Panther Camo,32,1019
+1109, P2000 Lifted Spirits,32,1138
+1110, P2000 Coral Halftone,32,878
+1111, P2000 Marsh,32,1292
+1112, P2000 Royal Baroque,32,1259
+1113, P2000 Turf,32,635
+1114, P2000 Obsidian,32,894
+1115, P2000 Chainmail,32,327
+1116, P250 Nuclear Threat,36,168
+1117, P250 Muertos,36,404
+1118, P250 Boreal Forest,36,77
+1119, P250 Nevermore,36,813
+1120, P250 Digital Architect,36,1081
+1121, P250 Splash,36,162
+1122, P250 Undertow,36,271
+1123, P250 Mehndi,36,258
+1124, P250 Vino Primo,36,749
+1125, P250 Red Rock,36,668
+1126, P250 Bone Mask,36,27
+1127, P250 See Ya Later,36,678
+1128, P250 Sand Dune,36,99
+1129, P250 Hive,36,219
+1130, P250 Wingshot,36,501
+1131, P250 Forest Night,36,78
+1132, P250 Cartel,36,388
+1133, P250 Visions,36,1153
+1134, P250 Exchanger,36,786
+1135, P250 Black & Tan,36,928
+1136, P250 Cyber Shell,36,1044
+1137, P250 Iron Clad,36,592
+1138, P250 Ripple,36,650
+1139, P250 Valence,36,426
+1140, P250 Cassette,36,968
+1141, P250 Verdigris,36,848
+1142, P250 Constructivist,36,1212
+1143, P250 X-Ray,36,125
+1144, P250 Red Tide,36,1315
+1145, P250 Sedimentary,36,1317
+1146, P250 Epicenter,36,130
+1147, P250 Crimson Kimono,36,466
+1148, P250 Inferno,36,907
+1149, P250 Copper Oxide,36,1307
+1150, P250 Franklin,36,295
+1151, P250 Modern Hunter,36,164
+1152, P250 Asiimov,36,551
+1153, P250 Re.built,36,1230
+1154, P250 Facility Draft,36,777
+1155, P250 Supernova,36,358
+1156, P250 Drought,36,825
+1157, SG 553 Integrale,39,750
+1158, SG 553 Bulldozer,39,39
+1159, SG 553 Ultraviolet,39,98
+1160, SG 553 Hazard Pay,39,1084
+1161, SG 553 Waves Perforated,39,136
+1162, SG 553 Gator Mesh,39,243
+1163, SG 553 Tornado,39,101
+1164, SG 553 Damascus Steel,39,247
+1165, SG 553 Dragon Tech,39,1151
+1166, SG 553 Fallout Warning,39,378
+1167, SG 553 Anodized Navy,39,28
+1168, SG 553 Bleached,39,934
+1169, SG 553 Phantom,39,686
+1170, SG 553 Tiger Moth,39,519
+1171, SG 553 Ol' Rusty,39,966
+1172, SG 553 Triarch,39,613
+1173, SG 553 Heavy Metal,39,1048
+1174, SG 553 Aerial,39,598
+1175, SG 553 Cyberforce,39,1234
+1176, SG 553 Atlas,39,553
+1177, SG 553 Lush Ruins,39,1022
+1178, SG 553 Danger Close,39,815
+1179, SG 553 Desert Blossom,39,765
+1180, SG 553 Darkwing,39,955
+1181, SG 553 Basket Halftone,39,1320
+1182, SG 553 Wave Spray,39,186
+1183, SG 553 Cyrex,39,487
+1184, SG 553 Aloha,39,702
+1185, SG 553 Night Camo,39,1270
+1186, SG 553 Army Sheen,39,298
+1187, SSG 08 Dragonfire,40,624
+1188, SSG 08 Blood in the Water,40,222
+1189, SSG 08 Blue Spruce,40,96
+1190, SSG 08 Big Iron,40,503
+1191, SSG 08 Acid Fade,40,253
+1192, SSG 08 Ghost Crusader,40,554
+1193, SSG 08 Turbo Peek,40,1101
+1194, SSG 08 Carbon Fiber,40,70
+1195, SSG 08 Red Stone,40,762
+1196, SSG 08 Rapid Transit,40,128
+1197, SSG 08 Tropical Storm,40,233
+1198, SSG 08 Dezastre,40,1161
+1199, SSG 08 Parallax,40,989
+1200, SSG 08 Necropos,40,538
+1201, SSG 08 Tiger Tear,40,1289
+1202, SSG 08 Memorial,40,1187
+1203, SSG 08 Jungle Dashed,40,147
+1204, SSG 08 Mainframe 001,40,967
+1205, SSG 08 Blush Pour,40,1316
+1206, SSG 08 Hand Brake,40,751
+1207, SSG 08 Azure Glyph,40,1251
+1208, SSG 08 Abyss,40,361
+1209, SSG 08 Green Ceramic,40,1304
+1210, SSG 08 Detour,40,319
+1211, SSG 08 Halftone Whorl,40,877
+1212, SSG 08 Spring Twilly,40,1060
+1213, SSG 08 Zeno,40,513
+1214, SSG 08 Fever Dream,40,956
+1215, SSG 08 Mayan Dreams,40,200
+1216, SSG 08 Grey Smoke,40,1271
+1217, SSG 08 Prey,40,935
+1218, M4A1-S Imminent Danger,60,1073
+1219, M4A1-S Dark Water,60,60
+1220, M4A1-S Icarus Fell,60,440
+1221, M4A1-S Knight,60,326
+1219, M4A1-S Control Panel,60,792
+1220, M4A1-S Printstream,60,984
+1221, M4A1-S Cyrex,60,360
+1222, M4A1-S Welcome to the Jungle,60,1001
+1223, M4A1-S Nitro,60,254
+1224, M4A1-S Fade,60,1177
+1225, M4A1-S Blood Tiger,60,217
+1226, M4A1-S Stratosphere,60,1216
+1227, M4A1-S Golden Coil,60,497
+1228, M4A1-S Hyper Beast,60,430
+1229, M4A1-S Blue Phosphor,60,1017
+1230, M4A1-S Player Two,60,946
+1231, M4A1-S Decimator,60,644
+1232, M4A1-S Chantico's Fire,60,548
+1233, M4A1-S Nightmare,60,714
+1234, M4A1-S Leaded Glass,60,681
+1235, M4A1-S Briefing,60,663
+1236, M4A1-S Moss Quartz,60,862
+1237, M4A1-S Black Lotus,60,1166
+1238, M4A1-S Guardian,60,257
+1239, M4A1-S Boreal Forest,60,77
+1240, M4A1-S Basilisk,60,383
+1241, M4A1-S Mecha Industries,60,587
+1242, M4A1-S Emphorosaur-S,60,1223
+1243, M4A1-S Rose Hex,60,1319
+1244, M4A1-S Night Terror,60,1130
+1245, M4A1-S Mud-Spec,60,1243
+1246, M4A1-S VariCamo,60,235
+1247, M4A1-S Vaporwave,60,106
+1248, M4A1-S Wash me plz,60,160
+1249, M4A1-S Flashback,60,631
+1250, M4A1-S Atomic Alloy,60,301
+1251, M4A1-S Bright Water,60,189
+1252, M4A1-S Fizzy POP,60,1059
+1253, USP-S The Traitor,61,1040
+1254, USP-S Target Acquired,61,1027
+1255, USP-S Blueprint,61,657
+1256, USP-S Royal Blue,61,332
+1257, USP-S Whiteout,61,1065
+1258, USP-S Serum,61,221
+1259, USP-S Forest Leaves,61,25
+1260, USP-S Guardian,61,290
+1261, USP-S Kill Confirmed,61,504
+1262, USP-S Printstream,61,1142
+1263, USP-S Para Green,61,454
+1264, USP-S Black Lotus,61,1102
+1265, USP-S Neo-Noir,61,653
+1266, USP-S Overgrowth,61,183
+1267, USP-S Stainless,61,277
+1268, USP-S Road Rash,61,318
+1269, USP-S Purple DDPAT,61,818
+1270, USP-S Caiman,61,339
+1271, USP-S Monster Mashup,61,991
+1272, USP-S Night Ops,61,236
+1273, USP-S Torque,61,489
+1274, USP-S Cortex,61,705
+1275, USP-S PC-GRN,61,1186
+1276, USP-S Cyrex,61,637
+1277, USP-S Ticket to Hell,61,1136
+1278, USP-S Flashback,61,817
+1279, USP-S Lead Conduit,61,540
+1280, USP-S 027,61,115
+1281, USP-S Check Engine,61,796
+1282, USP-S Desert Tactical,61,1253
+1283, USP-S Orion,61,313
+1284, USP-S Jawbreaker,61,1173
+1285, USP-S Alpine Camo,61,830
+1286, USP-S Tropical Breeze,61,1284
+1287, USP-S Blood Tiger,61,217
+1288, USP-S Bleeding Edge,61,1323
+1289, USP-S Royal Guard,61,1217
+1290, CZ75-Auto Chalice,63,325
+1291, CZ75-Auto Army Sheen,63,298
+1292, CZ75-Auto Victoria,63,270
+1293, CZ75-Auto Tigris,63,350
+1294, CZ75-Auto The Fuschia Is Now,63,269
+1295, CZ75-Auto Tread Plate,63,268
+1296, CZ75-Auto Tuxedo,63,297
+1297, CZ75-Auto Xiangliu,63,643
+1298, CZ75-Auto Nitro,63,322
+1299, CZ75-Auto Tacticat,63,687
+1300, CZ75-Auto Silver,63,32
+1301, CZ75-Auto Eco,63,709
+1302, CZ75-Auto Vendetta,63,976
+1303, CZ75-Auto Crimson Web,63,12
+1304, CZ75-Auto Twist,63,334
+1305, CZ75-Auto Polymer,63,622
+1306, CZ75-Auto Pole Position,63,435
+1307, CZ75-Auto Circaetus,63,1036
+1308, CZ75-Auto Red Astor,63,543
+1309, CZ75-Auto Distressed,63,944
+1310, CZ75-Auto Imprint,63,602
+1311, CZ75-Auto Copper Fiber,63,1195
+1312, CZ75-Auto Framework,63,1076
+1313, CZ75-Auto Green Plaid,63,366
+1314, CZ75-Auto Yellow Jacket,63,476
+1315, CZ75-Auto Emerald,63,453
+1316, CZ75-Auto Pink Pearl,63,1329
+1317, CZ75-Auto Midnight Palm,63,933
+1318, CZ75-Auto Jungle Dashed,63,147
+1319, CZ75-Auto Syndicate,63,1064
+1320, CZ75-Auto Slalom,63,937
+1321, CZ75-Auto Poison Dart,63,315
+1322, CZ75-Auto Hexane,63,218
+1323, CZ75-Auto Indigo,63,333
+1324, R8 Revolver Crimson Web,64,12
+1325, R8 Revolver Amber Fade,64,523
+1326, R8 Revolver Fade,64,522
+1327, R8 Revolver Crazy 8,64,1145
+1328, R8 Revolver Reboot,64,595
+1329, R8 Revolver Memento,64,892
+1330, R8 Revolver Survivalist,64,721
+1331, R8 Revolver Bone Forged,64,952
+1332, R8 Revolver Tango,64,123
+1333, R8 Revolver Junk Yard,64,1047
+1334, R8 Revolver Banana Cannon,64,1232
+1335, R8 Revolver Leafhopper,64,1293
+1336, R8 Revolver Cobalt Grip,64,1276
+1337, R8 Revolver Grip,64,701
+1338, R8 Revolver Nitro,64,798
+1339, R8 Revolver Inlay,64,1237
+1340, R8 Revolver Desert Brush,64,924
+1341, R8 Revolver Bone Mask,64,27
+1342, R8 Revolver Night,64,40
